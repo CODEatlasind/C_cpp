@@ -1,0 +1,8 @@
+*.exe
+*.json
+*.java
+*.xml
+*.iml
+tempCodeRunnerFile.cpp
+tempCodeRunnerFile.python
+.vscode/
