@@ -1,0 +1,21 @@
+Stack using linkedlist:
+Property of linkedlist is that it can only be called via a head. To perform any operation I need to go to the head and the traverse.
+
+Push(int a) -> insert element in the 1st node
+Push(int a) -> insert element in the 2nd node
+Push(int a) -> insert element in the 3rd node
+
+Push(int a):
+Everytime push action is performed a new node is created with the data provided. 
+The next of it stores the address of head and the new head is assigned this address.
+
+Pop():
+The head is replaced by next value of current head until head is not null.
+
+Top():
+Head data
+
+Size():
+int counter 
+
+isEmpty(): Based on this counter
