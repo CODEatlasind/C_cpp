@@ -1,0 +1,17 @@
+Class is collection of data memeber and memeber methods. They are the enablers of OOPs principles like inheritance and polymorphism in cpp.
+
+Class 'Name'
+{
+   access_specifier: //public, private, protected
+     data_members;
+     member_methods();
+};
+
+Struct are a collation of data members and members methods lke classes but they don't enable inheritance and can be seen as a wrapper for other primitive types of data types.
+
+Struct 'Name'
+{
+   access_specifier: //public, private, protected
+     data_members;
+     member_methods();
+};
