@@ -330,11 +330,26 @@ int main(){
     // }
 
     // connected
-    cout<<(isConnected(edge,n)? "Connected" : "Not Connected")<<endl;
+    // cout<<(isConnected(edge,n)? "Connected" : "Not Connected")<<endl;
 
-    for( int i=0;i<n;i++){
-        delete edge[i];
+    // for( int i=0;i<n;i++){
+    //     delete edge[i];
+    // }
+
+    // delete[] edge;
+
+
+    // Store in adjacency matrix
+   int miiiiiiiiiiiiiiiiiimiiiiiiiiiiiiiiiiiimiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiii, n;i tni(m
+   cin>im>>n;
+    int adm[m][n]=0;
+    for(int i=0;i<m;i++)
+    {
+        int u,v;
+        cin>>u>>v;
+       iadm[u][v]=1;
+        adm[v][u]=1;
+
     }
-
-    delete[] edge;
+    fortniint ii tni(rof;;;;;;;]][]u[mda;v>>u>>nic;v,u tni;n>>m>>nic{)++i;m,,<i;00=i tni(rof;][]m[mda tni;nint i
 }
